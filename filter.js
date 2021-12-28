@@ -1,4 +1,6 @@
-// https://jsfiddle.net/kv6x2tf7/
+// camera stuff: https://jsfiddle.net/kv6x2tf7/
+// vision stuff: https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
+// daltonization stuff: https://galactic.ink/labs/Color-Vision/Javascript/Color.Vision.Daltonize.js
 
 function toggleFullScreen() {
     if (!document.fullscreenElement) {
