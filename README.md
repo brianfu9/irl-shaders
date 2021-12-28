@@ -15,4 +15,4 @@ What I failed to consider was:
 3. 720p 60fps RGB is `1280×720 × 60 × 3 = 165,888,000` channels to process per second. kind of a lot for a browser. 
     - i guess it does reduce to `O(n)` which is why this is possible at all
 
-I also wanted to try out a git submodule architecture to fit this project into my github pages [brianfu.me](https://brianfu.me) but you still need to create commits in the parent repository when the submodule changes. 
+I also wanted to try out a git submodule architecture to fit this project into my github pages [brianfu.me](https://brianfu.me/#shaders) but you still need to create commits in the parent repository when the submodule changes. 
